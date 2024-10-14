@@ -1,0 +1,11 @@
+.FindPiInput{
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    color: black;
+    font-size: 14px;
+    background: transparent;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 8px;
+}
