@@ -180,7 +180,7 @@ function App() {
       <div className={classes["steps"]}>
         <p>Введите количество уравнений:</p>
         <FindPiInput onChange={(e) => setRows(Number(e.target.value))} disabled={showTable} />
-        <FunButt onClick={handleButtonClick}>Перейти к вводу коэффициентов</FunButt>
+        <FunButt onClick={handleButtonClick} >Перейти к вводу коэффициентов</FunButt>
         {showTable && (
           <div>
             {renderTable()}
