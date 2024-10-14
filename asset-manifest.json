@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SLAYSolve/static/css/main.f78c70a7.css",
+    "main.js": "/SLAYSolve/static/js/main.69935120.js",
+    "index.html": "/SLAYSolve/index.html",
+    "main.f78c70a7.css.map": "/SLAYSolve/static/css/main.f78c70a7.css.map",
+    "main.69935120.js.map": "/SLAYSolve/static/js/main.69935120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f78c70a7.css",
+    "static/js/main.69935120.js"
+  ]
+}
