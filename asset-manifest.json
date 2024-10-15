@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SLAYSolve/static/css/main.016f40c2.css",
-    "main.js": "/SLAYSolve/static/js/main.69935120.js",
+    "main.js": "/SLAYSolve/static/js/main.df4b2d8a.js",
     "index.html": "/SLAYSolve/index.html",
     "main.016f40c2.css.map": "/SLAYSolve/static/css/main.016f40c2.css.map",
-    "main.69935120.js.map": "/SLAYSolve/static/js/main.69935120.js.map"
+    "main.df4b2d8a.js.map": "/SLAYSolve/static/js/main.df4b2d8a.js.map"
   },
   "entrypoints": [
     "static/css/main.016f40c2.css",
-    "static/js/main.69935120.js"
+    "static/js/main.df4b2d8a.js"
   ]
 }
